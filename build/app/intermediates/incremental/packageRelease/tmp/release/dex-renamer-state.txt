@@ -1,0 +1,4 @@
+#Sat Jun 22 00:36:54 IST 2019
+base.0=/Users/test/Documents/iDreamBooksApp/idream_books_app/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
